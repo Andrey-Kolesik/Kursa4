@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="css/stoim.css" type="text/css"?>
+<BODY>
+<STUDIO> Цены всех автомобилей 
+<SERVICE>BMW M2
+<NUMBEROFSTUDENTS>Стоимость - от 40 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2010г.
+</CITY>
+</SERVICE>
+<SERVICE>BMW M3
+<NUMBEROFSTUDENTS>Стоимость - от 50 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2012г.
+</CITY>
+</SERVICE>
+<SERVICE>BMW M4
+<NUMBEROFSTUDENTS>Стоимость - от 55 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2012г.
+</CITY>
+</SERVICE>
+<SERVICE>BMW M5
+<NUMBEROFSTUDENTS>Стоимость - от 60 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2015г.
+</CITY>
+</SERVICE>
+<SERVICE>BMW M6
+<NUMBEROFSTUDENTS>Стоимость - от 80 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2016г.
+</CITY>
+</SERVICE>
+<SERVICE>BMW i3
+<NUMBEROFSTUDENTS>Стоимость - от 60 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2018г.
+</CITY>
+</SERVICE>
+<SERVICE>BMW i8
+<NUMBEROFSTUDENTS>Стоимость - от 100 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2017г.
+</CITY>
+</SERVICE>
+<SERVICE>BMW X3
+<NUMBEROFSTUDENTS>Стоимость - от 30 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2012г.
+</CITY>
+</SERVICE>
+<SERVICE>BMW X5
+<NUMBEROFSTUDENTS>Стоимость - от 40 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2014г.
+</CITY>
+</SERVICE>
+<SERVICE>BMW X6
+<NUMBEROFSTUDENTS>Стоимость - от 70 000 $</NUMBEROFSTUDENTS>
+<CITY>Год выпуска - 2017г.
+</CITY>
+</SERVICE>
+
+</STUDIO>
+</BODY>

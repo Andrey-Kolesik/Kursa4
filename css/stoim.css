@@ -1,0 +1,51 @@
+BODY{
+background: url(../bkg.jpg);
+background-size: cover no-repeat;		
+}
+STUDIO 
+{ 
+position: absolute;
+font-family: 'georgia'; 
+text-align:center; 
+font-size: 35px;
+margin: 5% 0 0 35%; 
+} 
+SERVICE 
+{display:block; 
+font-family: 'Evolventa'; 
+background-color: rgba(176, 150, 48, 0.5); 
+text-align:center; 
+margin-top:20pt; 
+margin-bottom: 10%;
+border-style:solid; 
+border-color:black; 
+font-size:28pt} 
+POINTS 
+{ 
+font-family: 'Evolventa'; 
+display:block; 
+text-align:center; 
+font-style:italic; 
+text-align:center} 
+NUMBEROFSTUDENTS 
+{ display:block; 
+font-size:16pt; 
+font-family: 'Evolventa'; 
+text-align:center; 
+font-weight:bold; 
+border-top:solid; 
+border-color:rgba(59, 148, 37, 1);} 
+CITY 
+{ display:block; 
+font-family: 'Evolventa'; 
+font-size:15pt; 
+text-align:center; 
+border-top:solid; 
+border-color:rgba(59, 148, 37, 1);} 
+SPECIALIZATION 
+{ 
+background-color: rgba(176, 150, 48, 0.5); 
+font-family: 'Evolventa'; 
+display:block; 
+text-align:center; 
+border-style:solid}

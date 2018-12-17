@@ -1,0 +1,43 @@
+body{
+	height: 1000px;
+	background-color: white;
+}
+h2{
+	margin-top: 1%;
+}
+.car{
+	margin-top: -3%;
+	margin-left: 1%;
+	position: relative;
+	float: left;
+	position: fixed;
+}
+.opisanie h3{
+	font-family: arial;
+	position: relative;
+	color: black;
+	font-weight: bold;
+	margin-top:5%;
+	margin-left: 50%;
+}
+hr{
+	margin-top: 10px;
+}
+.opisanie p{
+	font-family: arial;
+	font-weight: bold;
+	margin-left: 50%;
+	color: black;
+}
+span{
+	position: absolute;
+	margin-top: 30px;
+	font-size: 35px;
+	color: green;
+	font-family: georgia;
+	margin-left: 50%;
+	border: 6px outset grey;
+	padding: 4px;
+	font-weight: bold;
+	background-color: rgba(115, 99, 69, 0.4);
+}
